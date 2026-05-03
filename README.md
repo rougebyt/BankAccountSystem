@@ -56,6 +56,3 @@ BankAccountSystem/
 
 
 Made with proper inheritance hierarchy for learning and demonstration purposes.
-
-
-```
